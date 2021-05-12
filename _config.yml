@@ -5,7 +5,7 @@ description: subtitle | affiliations | motto
 
 baseurl: "" #name of GitHub repository
 url: #custom url to be used instead of GitHub repository
-email: #
+email: smehdizadeh7@gatech.edu
 
 
 highlighter: rouge
