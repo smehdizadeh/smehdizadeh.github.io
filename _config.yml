@@ -1,6 +1,6 @@
-### your site title here
+### my personal portfolio
 
-title: Your Name
+title: Sophia Kaltsouni Mehdizadeh
 description: subtitle | affiliations | motto
 
 baseurl: "" #name of GitHub repository
@@ -19,8 +19,8 @@ paginate_path: /blog/page:num/
 # Social media links in footer
 facebook: "#"
 twitter: "#"
-linkedin: "#"
-github: "#"
+linkedin: "smehdizadeh/"
+github: "smehdizadeh/"
 researchgate: "#"
 orcid: "#"
 
