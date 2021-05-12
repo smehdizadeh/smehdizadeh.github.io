@@ -7,8 +7,8 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+I am passionate about music and audio technologies, and enjoy exploring how the worlds of music and engineering are intertwined. My research interests include psychophysiological correlates of musical preferences (PPG, EKG, respiration, EEG, fMRI), models for musical preference, and individualized experimental design. 
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+Before joining the Brain Music Lab at Georgia Tech's Center for Music Technology, I spent close to two years as part of the Advanced Development team at MEAA looking at new audio technologies we can bring into the vehicle to enhance our overall experience in the car. 
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+I received my Bachelor's from the University of Michigan in Electrical Engineering with a Music Minor, and was co-vice president and build team manager of Michigan Project Music-- a student team that designs unique experimental musical instruments, often with complex electrical and structural components.
