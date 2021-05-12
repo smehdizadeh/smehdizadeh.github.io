@@ -3,7 +3,7 @@ layout: about
 permalink: /
 profile:
   align: right
-  image: headshot.jpg
+  image: violin.jpg
 published: true
 ---
 
