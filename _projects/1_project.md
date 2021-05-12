@@ -1,10 +1,14 @@
 ---
 layout: post
-title: Short Project
-description: description of the short project which is long enough
+title: Magnebacus
+description: An abacus-inspired, electronic musical interface
 ---
 
-Example taken from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
+**Created by:** Sophia Mehdizadeh, Daniel Ethridge, and Mohammad Jafari
+
+*2021 Moog Music Hackathon winner*
+
+### About the instrument ###
 
 H1 Header
 ============
