@@ -8,7 +8,7 @@ description: An abacus-inspired, electronic musical interface
 
 *2021 Moog Music Hackathon winner*
 
-![Magnebacus video](https://youtu.be/PeHwQo6eCUo)
+[![Magnebacus video](/assets/images/Capture_Magnebacus.JPG)](https://youtu.be/PeHwQo6eCUo)
 
 ### About the hackathon ###
 
