@@ -1,10 +1,12 @@
 ---
 layout: post
-title: A longer Project Title
-description: short project description
+title: Kool Edit 2020
+description: A simple audio WAV editor made using JUCE
 ---
 
-Example taken from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
+**Created by:** Sophia Mehdizadeh, Sandeep Dasari, Yilin Zhang, and Yanchao Liu
+
+*Inspired by [Cool Edit Pro](https://www.techspot.com/downloads/327-cool-edit-pro.html), made using [JUCE](https://juce.com/)*
 
 H1 Header
 ============
