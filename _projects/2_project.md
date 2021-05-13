@@ -1,15 +1,16 @@
 ---
 layout: post
 title: Kool Edit 2020
-description: A simple audio WAV editor made using JUCE
+description: An easy-to-use audio WAV editor made using JUCE
 ---
 
 **Created by:** Sophia Mehdizadeh, Sandeep Dasari, Yilin Zhang, and Yanchao Liu
 
 *Inspired by [Cool Edit Pro](https://www.techspot.com/downloads/327-cool-edit-pro.html), made using [JUCE](https://juce.com/)*
 
-H1 Header
-============
+### About the project ###
+
+### Software features ###
 
 Paragraphs are separated by a blank line.
 
