@@ -8,7 +8,10 @@ description: An easy-to-use audio WAV editor made using JUCE
 
 *Inspired by [Cool Edit Pro](https://www.techspot.com/downloads/327-cool-edit-pro.html), made using [JUCE](https://juce.com/)*
 
+*04/2020*
+
 ### About the project ###
+
 
 ### Software features ###
 
