@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project 6
-description: another project
+title: The MARTAphone
+description: Michigan Project Music's 2018 Moog Hackathon submission
 ---
 
 Example taken from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
