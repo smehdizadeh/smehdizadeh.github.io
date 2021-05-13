@@ -21,6 +21,10 @@ that not only takes input from the user, but also its environment.
 
 This interface uses the [Moog Werkstatt](https://www.moogmusic.com/products/werkstatt-01-cv-expander), a patchable, monophonic, analog synthesizer as the core of its sound generation. User interactions and environmental elements are measured via sensors embedded in the instrument. These signals are processed and mapped using Arduino and the software Max/MSP, and then sent via control voltages to the Werkstatt.
 
+For more details, check out our poster!
+
+![Magnebacus poster](/assets/images/Magnebacus_MoogHackathon.jpg)
+
 H1 Header
 ============
 
