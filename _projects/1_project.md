@@ -10,6 +10,8 @@ description: An abacus-inspired, electronic musical interface
 
 [![Magnebacus video](/assets/images/Capture_Magnebacus.JPG)](https://youtu.be/PeHwQo6eCUo)
 
+*02/2021*
+
 ### About the hackathon ###
 
 The [Moog Hackathon](https://guthman.gatech.edu/moog-hackathon) is an annual competition hosted by the Georgia Institute of Technology School of Music. While it traditionally takes the form of a 48-hour in-person hackathon, due to COVID-19 the 2021 event was adapted to a virtual format. Teams were given 9 days (to accomodate working at a distance) to create a novel musical interface using a Moog Werkstatt synthesizer, various sensors, and other software/hardware. Submissions were judged on the basis of usability, interaction design, sound design/mappings, creativity, and more.
