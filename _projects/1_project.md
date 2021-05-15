@@ -28,3 +28,5 @@ For more details, check out our poster!
 ![Magnebacus poster](/assets/images/Magnebacus_MoogHackathon.jpg)
 
 ### More photos ###
+
+![Magnebacus progress](/assets/images/magnebacus1.jpg)
