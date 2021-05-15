@@ -32,3 +32,5 @@ For more details, check out our poster!
 ![Magnebacus progress](/assets/images/magnebacus1.jpg)
 
 ![Magnebacus built](/assets/images/magnebacus2.jpg)
+
+![Magnebacus electronics](/assets/images/magnebacus3.jpg)
