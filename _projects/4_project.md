@@ -21,3 +21,5 @@ EECS 452 is the digital signal processing design lab senior capstone course. For
 I mainly worked on designing prototypes of the adaptive filtering algorithm and noise floor algorthm in MATLAB. I then moved on to developing and debugging the communication protocol between the Raspberry Pi and STM32 Nucleo boards. My team and I regularly communicated our progress to our professors through reports and presentations. Our final deliverables included a project poster and IEEE-style technical paper.
 
 The Adaptive Speaker system was demo-ed during the College of Engineering Design Expo.
+
+![Design Expo](/assets/images/DesignExpo.jpg)
