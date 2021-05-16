@@ -1,11 +1,11 @@
 ---
-title:
-layout: default
+layout: about
 permalink: /resume/
+profile:
+  align: left
+  image: headshot.jpg
 published: true
 ---
-
-![photo](/assets/images/headshot.jpg)
 
 View my resume [here](/assets/files/Mehdizadeh_resume_upload.pdf)
 
