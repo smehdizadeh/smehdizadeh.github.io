@@ -8,6 +8,8 @@ description: Prototype of a real-time adaptive speaker system
 
 *University of Michigan Electrical Engineering senior capstone design project*
 
+![High level diagram](/assets/images/Capture_AdaptiveSpeakers.JPG)
+
 *04/2018*
 
 ### About the project ###
