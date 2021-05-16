@@ -23,7 +23,9 @@ description: An easy-to-use audio WAV editor made using JUCE
 ### Software features ###
 
 - Compatible on Windows, macOS, and Linux
+
 Playback and visualization:
+
 - Load any WAV file via a file browser
 - Audio waveform and spectrogram visualization with time markers
 - Zoom in/out
@@ -32,8 +34,11 @@ Playback and visualization:
 - Click and drag on your selection to slide it around (arrow cursor)
 - Click anyware on the waveform to disable a selection
 - Toggle looping on/off (will loop entire track if no selection enabled)
+
 Editing:
+
 *Note: if no selection is enabled, the following will apply to the entire track*
+
 - Use the editing buttons on the second row of the toolbar, or right click on the waveform
 - Mute/silence (does not change length of track)
 - Delete (will reduce length of track)
