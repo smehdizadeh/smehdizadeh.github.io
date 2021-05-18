@@ -18,4 +18,4 @@ After brainstorming and multiple design iterations, I began constructing the ins
 
 "Painting Music" was played for two unique compositions, the class final presentation and at the PAT department showcase.
 
-![Instrument](/assets/images/[painting_music2.jpg)
+![Instrument](/assets/images/painting_music2.jpg)
