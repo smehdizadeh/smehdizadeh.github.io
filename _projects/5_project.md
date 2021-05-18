@@ -6,6 +6,8 @@ description: An interactive performance system
 
 *02/2018*
 
+[![Video](/assets/images/Capture_Paint.JPG)](https://www.youtube.com/watch?v=6N_F6q_c-hk&ab_channel=PerformingArtsTechnology-UniversityofMichigan)
+
 ### About the project ###
 
 PAT 452 is an interactive media design course offered through the Performing Arts Technology Department at the University of Michigan. For our first project of the semester, we were tasked to design a unique, compelling, and interactive digital musical instrument. "Painting Music" merges the visual and sonic arts by using an array of photo-resistors to interpret the performer's brush strokes and manipulation of light sources into sound.
