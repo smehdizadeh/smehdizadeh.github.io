@@ -11,7 +11,7 @@ My research interests include psychophysiological correlates of musical preferen
 
 (2021) Using Music to Modulate Emotional Memory: Episodic Memory Integration Via Schema Mechanisms
 
-(2020) The Physiology of Musical Preference: A Secondary Analysis of the *StudyForrest* Dataset
+(2020) The Physiology of Musical Preference: A Secondary Analysis of the *StudyForrest* Dataset [[poster]](/assets/files/Mehdizadeh_poster.pdf)
 
 ### Conferences ###
 
