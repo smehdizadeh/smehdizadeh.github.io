@@ -17,3 +17,5 @@ PAT 452 is an interactive media design course offered through the Performing Art
 After brainstorming and multiple design iterations, I began constructing the instrument body out of clear plexiglass using a laser cutter and shop tools. Photoresistors were sandwiched between two layers of plexiglass, and the signals were multiplexed and sent through Arduino to MaxMSP. For the first part of the performance, the sound was influenced and filtered by the model of a basin filling with water as the performer filled the canvas with paint. When the amount of paint on the board caused the "basin" to overflow, an audible cue indicated to the performer to progress to the next part of the piece.
 
 "Painting Music" was played for two unique compositions, the class final presentation and at the PAT department showcase.
+
+![Instrument](/assets/images/[painting_music2.jpg)
