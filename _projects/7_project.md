@@ -6,6 +6,8 @@ description: An experimental electric violin
 
 *Project Music: Redefining the electric violin*
 
+[![video](/assets/images/Capture_Piolin.JPG)](https://www.youtube.com/watch?v=uioYe5Zdcw4&ab_channel=ProjectMusic)
+
 *03/2017*
 
 **About the project**
