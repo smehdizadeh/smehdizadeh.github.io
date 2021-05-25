@@ -17,3 +17,5 @@ Project Music is a student organization at the University of Michigan dedicated 
 ![progress](/assets/images/martaphone1.jpg)
 
 As Vice President and Build Team Manager of Project Music I organized our club's participation in the hackathon, including member recruitment, logistical and funding preparations. At the start of the competition my hackathon team and I analyzed the available sensors and resources at our disposal, and started to brainstorm designs that encouraged intuitive and creatively expressive human-machine interactions. Overall, it was a big collaborative effort to make sure we worked efficiently and that our goals were realistic for the short amount of time that we had.
+
+![team photo](/assets/images/moog.jpg)
