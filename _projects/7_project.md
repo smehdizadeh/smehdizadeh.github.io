@@ -18,4 +18,6 @@ Project Music is a student organization at the University of Michigan dedicated 
 
 As Vice President and Build Team manager, part of my role in leading the completion of this project was to plan our weekly meetings, set goals and deadlines, and maintain member involvement. I led a team of eight peers through the design and manufacturing process, during which we used laser cutters, 3D printers, and the machine shop at the Wilson Student Team Project Center to construct the instrument.
 
+![electronics](/assets/images/piolin2.jpg)
+
 Upon completion the instrument was showcased at several club recruiting events, including SpringFest 2017. It was also featured by the Electrical and Computer Engineering department in the ECE Magazine.
