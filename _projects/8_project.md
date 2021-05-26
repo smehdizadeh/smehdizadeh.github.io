@@ -4,6 +4,10 @@ title: Musical Instrument Recognition
 description: Classification using SVM and CNNs
 ---
 
+**Created by:** Sophia Mehdizadeh, Peeravich Panlertkitsakul, and Timothy Kennedy
+
+![plots](/assets/images/matlab.jpg)
+
 *04/2017*
 
 **About the project**
