@@ -16,3 +16,4 @@ My research interests include psychophysiological correlates of musical preferen
 ### Conferences ###
 
 Mehdizadeh, S. K., & Leslie, G. (2021). Novel Methodologies for Secondary Analyses of Physiological and Musical Preference Data. *International Conference on Music Perception and Cognition (ICMPC).*
+[[read accepted abstract from the unpublished proceedings]](https://drive.google.com/file/d/19EWTme7o50mX_L0zYN204Hpaqd2EUhN4/view) [[watch the recorded conference presentation]](https://youtu.be/3p1wVwXEl0Y)
