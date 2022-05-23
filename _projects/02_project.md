@@ -12,8 +12,10 @@ description: A Theremin-playing robotic musician
 
 ### What is the Theremin? ###
 
-![Clara Rockmore](/assets/images/rockmore.jpg)
-*Famous Thereminist Clara Rockmore (from WNYC.org)
+<img src="/assets/images/rockmore.jpg" width="365" height="247">
+
+*Thereminist Clara Rockmore (from WNYC.org)*
+
 
 The Theremin is an electronic musical instrument first developed around the 1930s. It has two RF oscillators and antennas that are affected by the proximity of the thereminist’s hands. One antenna controls the volume of the sound and the other controls the pitch of the sound, resulting in a smooth, ghostly tone.
 
