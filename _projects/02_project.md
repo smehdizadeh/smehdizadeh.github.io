@@ -29,6 +29,12 @@ Our Theremin-playing robot (nicknamed "Terry") is the result of a semester-long 
 
 Our aim was to design, build, and perform with a Theremin-playing robot that was embedded within a biofeedback loop. Human input (physiological signals) is mapped to the Terry's playing style (staccato or legato notes); what Terry plays may then influence the physiology of the human collaborator. In the current implementation, we use EMG (muscle activity) from two sites on the face to capture the human collaborator's facial expression/emotion. This directly controls Terry's playing style, while the notes and timings themselves are pre-composed and streamed to Terry live as MIDI over Ethernet. In future work, we would like to expand the biofeedback implementation to include EEG (brainwaves) and map these signals to real-time music generation algorithms.
 
+### Technical details ###
+
+We first designed the structure for the robot in CAD and then constructed it by hand using basic shop tools and 3D printers at Georgia Tech's [Invention Studio](https://inventionstudio.gatech.edu/). The [OpenBCI](https://openbci.com/) platform was used for recording physiological signals, which we then streamed to [MaxMSP](https://cycling74.com/products/max) through Open Sound Control (OSC) protocol. We streamed MIDI notes as well as play style commands calculated from the incoming EMG data from MaxMSP to Terry's on-board Raspberry Pi via Ethernet. Python code running on the Raspberry Pi translated these notes and commands to motor positions and PID settings. Two [Dynamixel](https://emanual.robotis.com/docs/en/dxl/x/xl430-w250/) servo motors were tuned and used for Terry's pitch and volume arms.
+
+[View the project on GitHub](https://github.com/smehdizadeh/ThereminBot)
+
 ### More photos ###
 
 *coming soon!*
