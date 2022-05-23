@@ -21,13 +21,13 @@ The Theremin is an electronic musical instrument first developed around the 1930
 
 The thereminist hovers their hands near the antennas, making minute and precise learned movements in space to play the instrument. Unlike more traditional instruments like the violin or the trombone, the thereminist does not rely on any tactile feedback from the instrument. This makes the Theremin a notoriously difficult instrument for humans to learn, which is why we thought it is the perfect instrument for a robotic musician!
 
-### What are robotic musicians? ###
-
-*coming soon!*
-
 ### About the project ###
 
-*coming soon!*
+Our Theremin-playing robot (nicknamed "Terry") is the result of a semester-long final project for the Music Technology special topics course Robotic Musicianship. Robotic musicians are not just robots that are designed to play an instrument but they may also embody traits of human musicians, such as expressivity, improvisation, and group collaboration and communication with other robotic or human musicians.
+
+![System Diagram](/assets/images/Terry_Diagram.jpg)
+
+Our aim was to design, build, and perform with a Theremin-playing robot that was embedded within a biofeedback loop. Human input (physiological signals) is mapped to the Terry's playing style (staccato or legato notes); what Terry plays may then influence the physiology of the human collaborator. In the current implementation, we use EMG (muscle activity) from two sites on the face to capture the human collaborator's facial expression/emotion. This directly controls Terry's playing style, while the notes and timings themselves are pre-composed and streamed to Terry live as MIDI over Ethernet. In future work, we would like to expand the biofeedback implementation to include EEG (brainwaves) and map these signals to real-time music generation algorithms.
 
 ### More photos ###
 
