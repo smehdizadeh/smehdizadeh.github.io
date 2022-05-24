@@ -37,4 +37,4 @@ We first designed the structure for the robot in CAD and then constructed it by 
 
 ### More photos ###
 
-*coming soon!*
+![construction progress](/assets/images/terry1.jpg)
