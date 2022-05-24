@@ -33,10 +33,16 @@ Our aim was to design, build, and perform with a Theremin-playing robot that was
 
 We first designed the structure for the robot in CAD (Solidworks) and then constructed it by hand using basic shop tools and 3D printers at Georgia Tech's [Invention Studio](https://inventionstudio.gatech.edu/). The [OpenBCI](https://openbci.com/) platform was used for recording physiological signals, which we then streamed to [MaxMSP](https://cycling74.com/products/max) through Open Sound Control (OSC) protocol. We streamed MIDI notes as well as play style commands calculated from the incoming EMG data from MaxMSP to Terry's on-board Raspberry Pi via Ethernet. Python code running on the Raspberry Pi translated these notes and commands to motor positions and PID settings. Two [Dynamixel](https://emanual.robotis.com/docs/en/dxl/x/xl430-w250/) servo motors were tuned and used for Terry's pitch and volume arms.
 
+### Challenges ###
+
 The relationship between sound frequency and distance between the thereminist's hand and the pitch antenna is non-linear. Furthermore, the Theremin's antennas are known to be highly sensitive to environmental variables such as humidity, room size, and number of surrounding objects/people. This means that the Theremin's tuning and pitch characteristics may vary significantly day to day, or if the instrument is moved to a new space. The hand positioning you use to play a melody must be adjusted, or it may even be impossible to play if the frequency output of the instrument has been significantly compromised. For a robotic musician with no real-time pitch detection, this presents a big problem.
+
+We needed to implement a quick, efficient way of tuning the system prior to a performance. We researched [other thereminist robots](https://ieeexplore.ieee.org/document/5723333) that had been developed by other research groups, and were able to implement the parametric tuning model presented by [Mizumoto et al. (2009)](https://ieeexplore.ieee.org/document/5354473). This greatly increased Terry's performance and ability to play more than an octave in tune! See the video above to hear Terry in action, and check out the parametric tuning MATLAB script, EMG and MIDI Max patch, and Python code on the project's GitHub.
 
 [View the project on GitHub](https://github.com/smehdizadeh/ThereminBot)
 
 ### More photos ###
 
 ![design progress](/assets/images/terry1.jpg)
+![construction progress](/assets/images/terry2.jpg)
+![3d prints](/assets/images/terry3.jpg)
