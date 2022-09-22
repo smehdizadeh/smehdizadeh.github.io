@@ -17,7 +17,7 @@ My research interests include psychophysiological correlates of musical preferen
 
 ### Conferences ###
 
-(*upcoming*) Ren, Y., Mehdizadeh, S. K., Brown, T. I., & Leslie, G. (2022). Using Music to Modulate Human Emotional Memory. *2022 Biennial Meeting of the Society of Music Perception and Cognition (SMPC '22).*
+Mehdizadeh, S. K., Ren, Y., Brown, T. I., & Leslie, G. (2022). Using Music to Modulate Human Emotional Memory. *2022 Biennial Meeting of the Society of Music Perception and Cognition (SMPC '22).* [[poster]](/assets/files/SMPC_2022.pdf)
 
 Mehdizadeh, S. K., & Leslie, G. (2021). Novel Methodologies for Secondary Analyses of Physiological and Musical Preference Data. *International Conference on Music Perception and Cognition (ICMPC).*   
 [[read accepted abstract]](https://drive.google.com/file/d/19EWTme7o50mX_L0zYN204Hpaqd2EUhN4/view) [[watch the conference presentation]](https://youtu.be/3p1wVwXEl0Y)
