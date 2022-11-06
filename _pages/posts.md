@@ -1,7 +1,7 @@
 ---
 title:
 layout: default
-permalink: /posts/
+permalink: /test/
 published: false
 ---
 
