@@ -48,4 +48,6 @@ This rendition includes three instrumentals: piano (playing the original "Chilea
 
 **Video:** Bryce Irvin
 
+**Poster/Programme:** Timothy Min
+
 **Brain Music Lab director:** Dr. Grace Leslie
