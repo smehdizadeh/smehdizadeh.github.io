@@ -22,26 +22,26 @@ This rendition includes three instrumentals: piano (playing the original "Chilea
 
 <i> A huge thank-you to our performers and those who helped organize the performance and the concert! </i>
 
-<u> Score & Arrangement:</u> Sophia Mehdizadeh
+<u> Score & Arrangement: </u> Sophia Mehdizadeh
 
-<u> Tech lead & Production:</u> Sophia Mehdizadeh
+<u> Tech lead & Production: </u> Sophia Mehdizadeh
 
-<u> Brain performer:</u> Rhythm Jain
+<u> Brain performer: </u> Rhythm Jain
 
-<u> Pianist & Musical direction:</u> Daniel Ethridge
+<u> Pianist & Musical direction: </u> Daniel Ethridge
 
-<u> Flute:</u> Qianyi (Rose) Sun
+<u> Flute: </u> Qianyi (Rose) Sun
 
-<u> Tenor Saxophone:</u> Lauren McCall
+<u> Tenor Saxophone: </u> Lauren McCall
 
-<u> Theta Vocals:</u> Martina Albano & Neha Rajagopalan
+<u> Theta Vocals: </u> Martina Albano & Neha Rajagopalan
 
-<u> Alpha Vocals:</u> Chad Pozarycki & Sophia Mehdizadeh
+<u> Alpha Vocals: </u> Chad Pozarycki & Sophia Mehdizadeh
 
-<u> Beta Vocals:</u> Timothy Min
+<u> Beta Vocals: </u> Timothy Min
 
-<u> EEG & Audio tech.:</u> Noel Alben & Thiago Roque
+<u> EEG & Audio tech.: </u> Noel Alben & Thiago Roque
 
-<u> Concert audio:</u> Mir Jeffres
+<u> Concert audio: </u> Mir Jeffres
 
-<u> Video:</u> Bryce Irvin
+<u> Video: </u> Bryce Irvin
