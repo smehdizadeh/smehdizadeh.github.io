@@ -16,6 +16,8 @@ description: A modern rendition of "Chilean Drought"
 
 ![chilean drought](/assets/images/chilean_drought2.png)
 
+<i> Left: From "Chilean Drought" score (www.davidrosenboom.com), Right: Max MSP patch for "Global Pandemic." </i>
+
 This rendition includes three instrumentals: piano (playing the original "Chilean Drought" score), tenor saxophone, and flute (both improvising). They accompany three groups of different vocal styles, as per the original piece. The relative audible levels of the three vocal groups are directly controlled by the brain performer, who is wearing an OpenBCI headband with 4 channels of EEG. She both intentionally modulates her brain waves as well allows herself to be influenced by what she is hearing, creating the biofeedback loop. Frequency band powers of theta, alpha, and beta waves are sent via OSC from OpenBCI to Max MSP, where they are directly mapped to the levels of the incoming microphone signals.
 
 ![flowchart](/assets/images/chilean_drought1.png)
