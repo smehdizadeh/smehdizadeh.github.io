@@ -4,7 +4,7 @@ title: "Global Pandemic"
 description: A modern rendition of "Chilean Drought"
 ---
 
-# A modern rendition of David Rosenboom's "Chilean Drought" #
+# A modern rendition of "Chilean Drought" #
 
 [![Concert video](/assets/images/chilean_drought.png)](https://youtu.be/yhuCzM9MBa8)
 
