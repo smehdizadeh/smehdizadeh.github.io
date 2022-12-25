@@ -45,3 +45,5 @@ This rendition includes three instrumentals: piano (playing the original "Chilea
 **Concert audio:** Mir Jeffres
 
 **Video:** Bryce Irvin
+
+**Brain Music Lab director:** Dr. Grace Leslie
