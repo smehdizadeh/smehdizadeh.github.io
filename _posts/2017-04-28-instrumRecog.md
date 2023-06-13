@@ -3,11 +3,11 @@ layout: post
 title: "[ARCHIVE] Musical instrument recognition"
 ---
 
-**Created by:** Sophia Mehdizadeh, Peeravich Panlertkitsakul, and Timothy Kennedy
+April 2017
 
 ![plots](/assets/images/matlab.jpg)
 
-*04/2017*
+**Created by:** Sophia Mehdizadeh, Peeravich Panlertkitsakul, and Timothy Kennedy
 
 **About the project**
 
