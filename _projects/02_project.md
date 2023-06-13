@@ -25,3 +25,9 @@ Syngeneia uses two spring-mounted controllers, each with an embedded gyroscope/a
 ![diagram](/assets/images/Syngeneia_diagram.png)
 
 Check out the more detailed, full-length video [here!](https://youtu.be/eGP5dM2umB0)
+
+### More photos ###
+
+![syngeneia1](/assets/images/syngeneia1.png)
+
+![syngeneia2](/assets/images/syngeneia2.png)
