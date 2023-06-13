@@ -24,6 +24,10 @@ Syngeneia uses two spring-mounted controllers, each with an embedded gyroscope/a
 
 ![diagram](/assets/images/Syngeneia_diagram.png)
 
+The sound is produced using BEAP synthesizer modules in MaxMSP. We connected and programmed modules to create a modulating drone sound and two melodies (one for each user). All sensor data from the controllers is sent by the Arduino to MaxMSP. Within the Max patch, the control signals are mapped to parameters of the drone (pitches, amplitude, and timbre) and/or parameters of the melodies (rules for melody generation and timbre).
+
+![maxpatch](/assets/images/syngeneia_max.png)
+
 Check out the more detailed, full-length video [here!](https://youtu.be/eGP5dM2umB0)
 
 ### More photos ###
