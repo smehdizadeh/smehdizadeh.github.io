@@ -20,6 +20,8 @@ the sub-prompt "a habitat for coexistence."
 
 ### About the project ###
 
+Syngeneia uses two spring-mounted controllers, each with an embedded gyroscope/accelerometer to measure motion, a pulse sensor, and three copper-tape electrodes used to measure galvanic skin response (GSR). The same electrodes are used to determine if the two performers are in contact with each other. Sensor data is amplified by our prototyped circuitry and is read by an Arduino Nano. The motion of each controller, individual heart rates, heart rate similarity, individual GSR, and physical contact are all parameters that are used within MaxMSP to influence both synthesizer parameters and rule-based generative algorithms for the notes played.
 
+![diagram](/assets/images/Syngeneia_diagram.png)
 
 Check out the more detailed, full-length video [here!](https://youtu.be/eGP5dM2umB0)
