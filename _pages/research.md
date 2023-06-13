@@ -13,9 +13,13 @@ My research interests include psychophysiological correlates of musical preferen
 
 (Jan 2021 - present) Using Music to Modulate Emotional Memory [[poster]](/assets/files/Mehdizadeh_Spring2021_poster.pdf)
 
-(March 2020 - present) Physiology & Musical Preference [[poster]](/assets/files/Mehdizadeh_poster.pdf)
+### Journal articles ###
+
+[//]: # "**Mehdizadeh, S. K.**, & Leslie, G. (2023). The physiology of musical preference: A secondary analysis of the *Study Forrest* dataset. *Music Perception, 40*(5), 393-407. https://doi.org/10.1525/MP.2023.40.5.393)"
 
 ### Conferences ###
+
+[//]: # "**Mehdizadeh, S. K.**, Cutrell, E., Winters, R. M., Djuric, N., Cheng, Y., Tashev, I. J., & Wang, Y. T. (2023). EEG and Eye-Tracking Error-Related Responses During Predictive Text Interactions: A BCI Case Study. *2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC '23).*"
 
 **Mehdizadeh, S. K.**, Ren, Y., Brown, T. I., & Leslie, G. (2022). Using Music to Modulate Human Emotional Memory. *2022 Biennial Meeting of the Society of Music Perception and Cognition (SMPC '22).* [[poster]](/assets/files/SMPC_2022.pdf)
 
