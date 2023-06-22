@@ -32,6 +32,10 @@ I manufactured three chimes out of 1/4" thick aluminum rod, carefully cut and tu
 
 The solenoid "on" and "off" signals are sent from an Arduino Mega along with a small circuit that I made to power and drive the motors. The timing of these solenoid signals is directly based on the user's heart rate. The user's heart rate is measured from a light-based pulse (PPG) sensor that can be secured to the finger. The PPG signal is sent to the Arduino, which detects the peaks ("pulses") and calculates and updates the heart rate in real time.
 
+![photo3](/assets/images/intero-3.jpg)
+
+
+
 ### More photos ###
 
 
