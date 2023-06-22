@@ -34,7 +34,7 @@ The solenoid "on" and "off" signals are sent from an Arduino Mega along with a s
 
 ![photo3](/assets/images/intero-3.jpg)
 
-
+The user can start and stop the system using a laptop interface that I designed in MaxMSP. MaxMSP is connected via serial interface to the Arduino. The real-time heart rate is sent from the Arduino to MaxMSP so that it can also be diplayed on the screen for additional visual feedback. After the user puts on the pulse sensor, they can select one of two different "modes" of operation (self guidance or system guidance). The mode selection is sent from MaxMSP to the Arduino. Upon selecting one of the two modes, the user's baseline/starting heart rate is saved so that any subsequent changes in heart rate can be measured against the user's unique baseline.
 
 ### More photos ###
 
