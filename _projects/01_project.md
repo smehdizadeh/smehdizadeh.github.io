@@ -10,26 +10,22 @@ description: An interactive system for interoceptive awareness
 
 [![Demo video](/assets/images/Capture_idiophone.jpg)](https://youtu.be/zmnTAz3soPM)
 
-### About the hackathon ###
+### What is interoception? ###
 
-*Syngeneia* was an interactive sound installation designed and built for the 2023 [SynthUX hackathon](https://www.synthux.academy/events/hackathon-2023).
-Teams had four days to design, build, and document a project inspired by this year's theme of "acoustic bytes and artificial nature." For our project, we selected
-the sub-prompt "a habitat for coexistence."
+Interoception, or interoceptive sensing, is the perception of signals internal to the body (from both central and autonomic nervous systems) that may reveal aspects of physiological, cognitive, and emotional state [1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8054704/). Examples include one’s ability to perceive their own heart rate, breathing, body temperature, hunger, etc. For the most part (when the body is in homeostasis), interoception is a subconscious process. The act of being consciously aware of and interpreting these internal states/signals is called interoceptive awareness/attention [1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8054704/). Ability for interoceptive awareness varies between individuals [1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8054704/), [2](https://doi.org/10.1111/j.1469-8986.1981.tb02486.x), [4](https://doi.org/10.3389/fpsyg.2018.00798), and it may also fluctuate within individuals, depending on environmental factors/external stimuli, such as stress [4](https://doi.org/10.3389/fpsyg.2018.00798). Multiple studies have linked the ability for interoceptive awareness with greater cognitive-affective processing– for example, perception of emotional states [2](https://doi.org/10.1111/j.1469-8986.1981.tb02486.x), [3](https://doi.org/10.1177/0956797610389191) and emotion regulation [4](https://doi.org/10.3389/fpsyg.2018.00798).
 
-### About the project ###
+### Interoception and interactive systems... ###
 
-Syngeneia uses two spring-mounted controllers, each with an embedded gyroscope/accelerometer to measure motion, a pulse sensor, and three copper-tape electrodes used to measure galvanic skin response (GSR). The same electrodes are used to determine if the two performers are in contact with each other. Sensor data is amplified by our prototyped circuitry and is read by an Arduino Nano. The motion of each controller, individual heart rates, heart rate similarity, individual GSR, and physical contact are all parameters that are used within MaxMSP to influence both synthesizer parameters and rule-based generative algorithms for the notes played.
+Technologies and interactive systems have been developed which aim to guide a user’s interoceptive awareness outside of a clinical setting (some examples: [5](https://ieeexplore.ieee.org/abstract/document/10049707?casa_token=nbSnY0fJggcAAAAA:mzeSkasgKCWO2oxGjq34Q-YVIxT5b_Rdva8lFZ78rFQSQo1AnTC7IbjMSKDGXn9z7wAvkNQ), [6](https://doi.org/10.1145/3411764.3445137), [7](https://doi.org/10.1145/2948910.2948922), [8](https://doi.org/10.1145/3139131.3139134)). These systems are typically designed to be accessible, easy to use, and to effectively communicate the signal of interest to the user. My goal was to design and build such a system, which could guide users' interoceptive awareness of their heart rate using sound. I aimed to make the heart rate-to-sound mappings appear intuitive, such that the system could guide users to slow their heart rates and the user felt like they could actually control the system. 
 
-![diagram](/assets/images/Syngeneia_diagram.png)
+### What are idiophones? ###
 
-The sound is produced using BEAP synthesizer modules in MaxMSP. We connected and programmed modules to create a modulating drone sound and two melodies (one for each user). All sensor data from the controllers is sent by the Arduino to MaxMSP. Within the Max patch, the control signals are mapped to parameters of the drone (pitches, amplitude, and timbre) and/or parameters of the melodies (rules for melody generation and timbre).
+Idiophones are a category of self-resonating/"self-sounding" musical instruments-- instruments that produce sound without air columns, membranes, electricity, or strings. Chimes are a type of idiophone. The chime body itself is what vibrates and resonates to produce sound. In this work, I use idiophones (in this case, chimes) as a physical metaphor/representation of humans' internal, yet expressive, physiological rhythms and resonances. From both an interaction-design and artistic perspective, the sound design was a key component of this project. I wanted the system and its sounds to be versatile enough such that it could potentially be "performed" by someone with high interoceptive awareness and accuracy.
 
-![maxpatch](/assets/images/syngeneia_max.png)
+### How it works... ###
 
-Check out the more detailed, full-length video [here!](https://youtu.be/eGP5dM2umB0)
+
 
 ### More photos ###
 
-![syngeneia1](/assets/images/syngeneia1.png)
 
-![syngeneia2](/assets/images/syngeneia2.png)
