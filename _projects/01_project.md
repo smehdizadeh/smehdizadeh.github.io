@@ -36,6 +36,14 @@ The solenoid "on" and "off" signals are sent from an Arduino Mega along with a s
 
 The user can start and stop the system using a laptop interface that I designed in MaxMSP. MaxMSP is connected via serial interface to the Arduino. The real-time heart rate is sent from the Arduino to MaxMSP so that it can also be diplayed on the screen for additional visual feedback. After the user puts on the pulse sensor, they can select one of two different "modes" of operation (self guidance or system guidance). The mode selection is sent from MaxMSP to the Arduino. Upon selecting one of the two modes, the user's baseline/starting heart rate is saved so that any subsequent changes in heart rate can be measured against the user's unique baseline.
 
+![photo4](/assets/images/intero-4.jpg)
+
+![photo5](/assets/images/intero-5.jpg)
+
+The two modes offer two different mappings of the heart rate to sound. Under the system guidance mode, the middle chime will always sound at the tempo of the user's heart rate. The right chime will start out by sounding at every fourth strike of the middle chime (4:1 ratio of tempos between middle:right). As the user's heart rate slows down, this tempo ratio will decrease. When the user's heart rate drops by 2%, the right chime will begin sounding at every third strike of the middle chime (3:1 tempo ratio). When the user's heart rate drops by 4%, the right chime will sound at every other strike of the middle chime (2:1 ratio). The "goal" of this mode is for the user to get the middle and right chimes to begin sounding in unison (1:1 ratio), which will happen if they are able to decrease their heart rate by 7% of their baseline/starting heart rate.
+
+Under the self guidance mode, the right chime will always sound at the tempo of the user's heart rate. The other two chimes remain silent to start. Once the user's heart rate drops by 3% the middle chime will begin sounding, forming a 3:2 polyrhythm with the right chime. The "goal" of this mode is for the user to "unlock"/activate all possible layers of the sound (all three chimes), which will happen when their heart rate drops by 5% of their baseline.
+
 ### More photos ###
 
 
