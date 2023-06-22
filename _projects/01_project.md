@@ -26,7 +26,11 @@ Idiophones are a category of self-resonating/"self-sounding" musical instruments
 
 ### How it works... ###
 
+I manufactured three chimes out of 1/4" thick aluminum rod, carefully cut and tuned such that their resonant frequencies all fit the key of A minor. I then built a wooden frame from which I could suspend the chimes and also mount three mini solenoid motors. The solenoids are positioned such that when they are turned "on" and "off" the pistons will strike the chimes to produce sound.
 
+![photo2](/assets/images/intero-2.jpg)
+
+The solenoid "on" and "off" signals are sent from an Arduino Mega along with a small circuit that I made to power and drive the motors. The timing of these solenoid signals is directly based on the user's heart rate. The user's heart rate is measured from a light-based pulse (PPG) sensor that can be secured to the finger. The PPG signal is sent to the Arduino, which detects the peaks ("pulses") and calculates and updates the heart rate in real time.
 
 ### More photos ###
 
