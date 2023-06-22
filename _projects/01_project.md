@@ -44,6 +44,6 @@ The two modes offer two different mappings of the heart rate to sound. Under the
 
 Under the self guidance mode, the right chime will always sound at the tempo of the user's heart rate. The other two chimes remain silent to start. Once the user's heart rate drops by 3% the middle chime will begin sounding, forming a 3:2 polyrhythm with the right chime. The "goal" of this mode is for the user to "unlock"/activate all possible layers of the sound (all three chimes), which will happen when their heart rate drops by 5% of their baseline.
 
-### More photos ###
+### System diagram ###
 
-
+![diagram](/assets/images/intero-diagram.jpg)
