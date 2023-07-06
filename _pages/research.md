@@ -15,7 +15,7 @@ My research interests include psychophysiological correlates of musical preferen
 
 ### Journal articles ###
 
-[//]: # "**Mehdizadeh, S. K.**, & Leslie, G. (2023). The physiology of musical preference: A secondary analysis of the *Study Forrest* dataset. *Music Perception, 40*(5), 393-407. https://doi.org/10.1525/MP.2023.40.5.393)"
+**Mehdizadeh, S. K.**, & Leslie, G. (2023). The physiology of musical preference: A secondary analysis of the *Study Forrest* dataset. *Music Perception, 40*(5), 393-407. https://doi.org/10.1525/MP.2023.40.5.393
 
 ### Conferences ###
 
