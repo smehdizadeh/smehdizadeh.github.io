@@ -10,6 +10,8 @@ description: An interactive system for interoceptive awareness
 
 [![Demo video](/assets/images/Capture_idiophone.jpg)](https://youtu.be/zmnTAz3soPM)
 
+*Built at the [ATLAS Institute's BTU Lab](https://www.colorado.edu/atlas/research-creative/BTULab)*
+
 ### What is interoception? ###
 
 Interoception, or interoceptive sensing, is the perception of signals internal to the body (from both central and autonomic nervous systems) that may reveal aspects of physiological, cognitive, and emotional state [[1]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8054704/). Examples include one’s ability to perceive their own heart rate, breathing, body temperature, hunger, etc. For the most part (when the body is in homeostasis), interoception is a subconscious process. The act of being consciously aware of and interpreting these internal states/signals is called interoceptive awareness/attention [[1]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8054704/). Ability for interoceptive awareness varies between individuals [[1]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8054704/), [[2]](https://doi.org/10.1111/j.1469-8986.1981.tb02486.x), [[4]](https://doi.org/10.3389/fpsyg.2018.00798), and it may also fluctuate within individuals, depending on environmental factors/external stimuli, such as stress [[4]](https://doi.org/10.3389/fpsyg.2018.00798). Multiple studies have linked the ability for interoceptive awareness with greater cognitive-affective processing– for example, perception of emotional states [[2]](https://doi.org/10.1111/j.1469-8986.1981.tb02486.x), [[3]](https://doi.org/10.1177/0956797610389191) and emotion regulation [[4]](https://doi.org/10.3389/fpsyg.2018.00798).
