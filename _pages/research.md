@@ -21,6 +21,8 @@ My research interests include psychophysiological correlates of musical preferen
 
 ### Conferences ###
 
+(Upcoming) **Mehdizadeh, S. K.**, Ren, Y., Leslie, G., Brown, T. I. (2024). Emotional Music Modulates Episodic Memory During Recollection and Induces False Traces. *2024 Biennial Meeting of the Society of Music Perception and Cognition (SMPC '24).*
+
 **Mehdizadeh, S. K.**, Cutrell, E., Winters, R. M., Djuric, N., Cheng, Y., Tashev, I. J., & Wang, Y. T. (2023). EEG and Eye-Tracking Error-Related Responses During Predictive Text Interactions: A BCI Case Study. *2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC '23).* [https://doi.org/10.1109/EMBC40787.2023.10340598](https://doi.org/10.1109/EMBC40787.2023.10340598)
 
 **Mehdizadeh, S. K.**, Ren, Y., Brown, T. I., & Leslie, G. (2022). Using Music to Modulate Human Emotional Memory. *2022 Biennial Meeting of the Society of Music Perception and Cognition (SMPC '22).* [[poster]](/assets/files/SMPC_2022.pdf)
