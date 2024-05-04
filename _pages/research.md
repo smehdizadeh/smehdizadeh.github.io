@@ -30,4 +30,4 @@ My research interests include psychophysiological correlates of musical preferen
 Roque, T. R, Rajagopalan, N., Jain, S., **Mehdizadeh, S. K.**, & Leslie, G. (2022). Multimodal, Musical Hyperscanning to Promote Empathy in HCI. *Empathy-Centric Design at Scale workshop at CHI '22.*
 
 **Mehdizadeh, S. K.**, & Leslie, G. (2021). Novel Methodologies for Secondary Analyses of Physiological and Musical Preference Data. *International Conference on Music Perception and Cognition (ICMPC '21).*   
-[[read accepted abstract]](https://drive.google.com/file/d/19EWTme7o50mX_L0zYN204Hpaqd2EUhN4/view) [[watch the conference presentation]](https://youtu.be/3p1wVwXEl0Y)
+[[read accepted abstract]](https://drive.google.com/file/d/1DcnTH1uBwIJVBAmodJBx58SXxs5LyzT8/view?usp=sharing) [[watch the conference presentation]](https://youtu.be/3p1wVwXEl0Y)
