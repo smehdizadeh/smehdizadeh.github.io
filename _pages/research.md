@@ -11,8 +11,6 @@ My research interests include psychophysiological correlates of musical preferen
 
 ### Ongoing research projects ###
 
-(Jan 2021 - present) Using Music to Modulate Emotional Memory [[poster]](/assets/files/Mehdizadeh_Spring2021_poster.pdf)
-
 (Sept 2023 - present) Behavioural, Social, and Neural Mechanisms of Music Appreciation
 
 ### Journal articles ###
