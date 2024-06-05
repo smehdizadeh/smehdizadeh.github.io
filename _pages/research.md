@@ -15,11 +15,13 @@ My research interests include psychophysiological correlates of musical preferen
 
 ### Journal articles ###
 
+(In Press) Ren, Y., **Mehdizadeh, S. K.**, Leslie, G., Brown, T. I. (2024). Affective Music During Episodic Memory Recollection Modulates Subsequent False Emotional Memory Traces: An fMRI Study. *Cognitive, Affective, and Behavioral Neuroscience.*
+
 **Mehdizadeh, S. K.**, & Leslie, G. (2023). The physiology of musical preference: A secondary analysis of the *Study Forrest* dataset. *Music Perception, 40*(5), 395-409. [https://doi.org/10.1525/mp.2023.40.5.395](https://doi.org/10.1525/mp.2023.40.5.395)
 
 ### Conferences ###
 
-(Upcoming) **Mehdizadeh, S. K.**, Ren, Y., Leslie, G., Brown, T. I. (2024). Emotional Music Modulates Episodic Memory During Recollection and Induces False Traces. *2024 Biennial Meeting of the Society of Music Perception and Cognition (SMPC '24).*
+(Upcoming) **Mehdizadeh, S. K.**, Ren, Y., Leslie, G., Brown, T. I. (2024). Emotional Music Modulates Episodic Memory During Recollection and Induces False Traces. *2024 Biennial Meeting of the Society of Music Perception and Cognition (SMPC '24).* [[read accepted abstract]](/assets/files/SMPC_2024.pdf) [[watch the lightning talk]](https://youtu.be/qJVlJ7tmzHg)
 
 **Mehdizadeh, S. K.**, Cutrell, E., Winters, R. M., Djuric, N., Cheng, Y., Tashev, I. J., & Wang, Y. T. (2023). EEG and Eye-Tracking Error-Related Responses During Predictive Text Interactions: A BCI Case Study. *2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC '23).* [https://doi.org/10.1109/EMBC40787.2023.10340598](https://doi.org/10.1109/EMBC40787.2023.10340598)
 
