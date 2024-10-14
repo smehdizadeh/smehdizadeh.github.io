@@ -15,7 +15,7 @@ My research interests include psychophysiological correlates of musical preferen
 
 ### Journal articles ###
 
-Ren, Y., **Mehdizadeh, S. K.**, Leslie, G., & Brown, T. I. (2024). Affective Music During Episodic Memory Recollection Modulates Subsequent False Emotional Memory Traces: An fMRI Study. *Cognitive, Affective, and Behavioral Neuroscience.* [https://doi.org/10.3758/s13415-024-01200-0](https://doi.org/10.3758/s13415-024-01200-0)
+Ren, Y., **Mehdizadeh, S. K.**, Leslie, G., & Brown, T. I. (2024). Affective Music During Episodic Memory Recollection Modulates Subsequent False Emotional Memory Traces: An fMRI Study. *Cognitive, Affective, and Behavioral Neuroscience, 24*(5),912-930. [https://doi.org/10.3758/s13415-024-01200-0](https://doi.org/10.3758/s13415-024-01200-0)
 
 **Mehdizadeh, S. K.**, & Leslie, G. (2023). The physiology of musical preference: A secondary analysis of the *Study Forrest* dataset. *Music Perception, 40*(5), 395-409. [https://doi.org/10.1525/mp.2023.40.5.395](https://doi.org/10.1525/mp.2023.40.5.395)
 
