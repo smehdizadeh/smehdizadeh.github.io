@@ -7,7 +7,7 @@ published: true
 
 My research interests include psychophysiological correlates of musical preferences (PPG, EKG, respiration, EEG, fMRI), models for musical preference, mechanisms for musically induced emotion, and individualized experimental design. I am interested in both creative and clinical applications of my work.
 
-(Dec 2021) **Master's Thesis:** Using Music to Modulate Emotional Memory [[thesis]](https://smartech.gatech.edu/handle/1853/66164)
+(Dec 2021) **Master's Thesis:** Using Music to Modulate Emotional Memory [[thesis]](http://hdl.handle.net/1853/66164)
 
 ### Ongoing research projects ###
 
