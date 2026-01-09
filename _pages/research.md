@@ -11,7 +11,7 @@ My research interests include psychophysiological correlates of musical preferen
 
 ### Ongoing research projects ###
 
-(Sept 2023 - present) Behavioural, Social, and Neural Mechanisms of Music Appreciation
+(Sept 2023 - present) Behavioural, Social, and Neural Mechanisms of Music Appreciation in Adolescents & Young Adults
 
 ### Journal articles ###
 
