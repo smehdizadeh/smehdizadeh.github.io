@@ -21,7 +21,7 @@ Ren, Y., **Mehdizadeh, S. K.**, Leslie, G., & Brown, T. I. (2024). Affective Mus
 
 ### Conferences ###
 
-**Mehdizadeh, S. K.,** & Leslie, G. (2026). Forms of Music Appreciation, Social Context, and Recommendation Source Uniquely Impact Felt Experience. *2026 Biennial Meeting of the Society of Music Perception and Cognition (SMPC '26).*
+**Mehdizadeh, S. K.,** & Leslie, G. (2026). Forms of Music Appreciation, Social Context, and Recommendation Source Uniquely Impact Felt Experience. *2026 Biennial Meeting of the Society of Music Perception and Cognition (SMPC '26).* [[read accepted abstract]](/assets/files/SMPC_2026.pdf)
 
 (SMPC student research award) **Mehdizadeh, S. K.**, Ren, Y., Leslie, G., Brown, T. I. (2024). Emotional Music Modulates Episodic Memory During Recollection and Induces False Traces. *2024 Biennial Meeting of the Society of Music Perception and Cognition (SMPC '24).* [[read accepted abstract]](/assets/files/SMPC_2024.pdf) [[watch the lightning talk]](https://youtu.be/qJVlJ7tmzHg)
 
